@@ -79,24 +79,8 @@ Update this section to reflect the exact tools and data source used in your proj
 4. Use the region and order-year filters to focus the analysis.
 5. Change the metric selector to compare available measures.
 
-## Suggested Repository Structure
-
-```text
-.
-├── README.md
-├── dashboard-preview.png
-└── superstore-dashboard.twbx
-```
-
-Rename `superstore-dashboard.twbx` in this example to match the actual workbook filename. A packaged Tableau workbook (`.twbx`) can include its data source; check the data's sharing terms before publishing it. If your project is a `.twb` file, it may depend on a separate data source.
-
 ## Notes
 
 - KPI and chart values shown above are taken from the screenshot and may change with filters.
 - Confirm the currency, calculation definitions, and aggregation settings in the workbook before using these figures in formal reporting.
 - Do not publish restricted business data or confidential information to a public repository.
-
-## Author
-
-**Your Name**  
-Add your GitHub profile or portfolio link here.
